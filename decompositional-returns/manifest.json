@@ -1,0 +1,43 @@
+{
+  "source": "https://api.hyperliquid.xyz/info",
+  "downloaded_at_utc": "2026-10-18T15:33:01.900758+00:00",
+  "interval": "1d",
+  "completed_candles_only": true,
+  "files": {
+    "BTC-1d.csv": {
+      "rows": 2251,
+      "first_open_ms": 1597795200000,
+      "last_open_ms": 1792195200000
+    },
+    "ETH-1d.csv": {
+      "rows": 2251,
+      "first_open_ms": 1597795200000,
+      "last_open_ms": 1792195200000
+    },
+    "BCH-1d.csv": {
+      "rows": 2205,
+      "first_open_ms": 1601769600000,
+      "last_open_ms": 1792195200000
+    },
+    "SOL-1d.csv": {
+      "rows": 2225,
+      "first_open_ms": 1600041600000,
+      "last_open_ms": 1792195200000
+    },
+    "HYPE-1d.csv": {
+      "rows": 682,
+      "first_open_ms": 1733356800000,
+      "last_open_ms": 1792195200000
+    },
+    "ZEC-1d.csv": {
+      "rows": 1380,
+      "first_open_ms": 1673049600000,
+      "last_open_ms": 1792195200000
+    },
+    "ALGO-1d.csv": {
+      "rows": 1682,
+      "first_open_ms": 1646956800000,
+      "last_open_ms": 1792195200000
+    }
+  }
+}
